@@ -1,4 +1,5 @@
 const obj = {
     name: 'Titsushi',
-    age:32
+    age:32,
+    isAdmin: true
 }
