@@ -3,5 +3,6 @@ const obj = {
     age:32,
     orders: [
         'pain', 'lait'
-    ]
+    ],
+    isAdmin: true
 }
