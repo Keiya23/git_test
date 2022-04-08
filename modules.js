@@ -4,5 +4,6 @@ const obj = {
     orders: [
         'pain', 'lait'
     ],
-    hasAccount: false    
+    hasAccount: false,   
+    isAdmin: true
 }
